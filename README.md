@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ayaad Ullah Baig
 
-### Aspiring AI Engineer | Software & Web Developer | Pakistan 🇵🇰
+### Aspiring AI Engineer | Software & Web Developer | Python & Machine Learning Enthusiast
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayaadullah&color=blueviolet)
 
