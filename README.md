@@ -9,7 +9,7 @@
 - 🎓 **BS Artificial Intelligence** — SZABIST Islamabad
 - 💡 Aspiring AI Engineer with a passion for **Software & Web Development**
 - 🛠️ Strong fundamentals in **C, C++, C#, JavaScript, CSS, Python & Machine Learning**
-- 🔗 Personal Brand: **Code.With.Ayaad**
+- 🔗**Code.With.Ayaad**
 
 ---
 
