@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me:
 
-I'm **Ayaad Ullah**, an AI student and Web developer with strong programming
+I'm **Ayaad Ullah**, an AI student, Software &  Web developer with strong programming
 fundamentals and hands-on project experience. I specialize in writing **clean,
 efficient, and well-structured code**, delivering reliable solutions for academic
 and small-scale professional projects.
