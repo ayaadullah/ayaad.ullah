@@ -21,9 +21,9 @@ efficient, and well-structured code**, delivering reliable solutions for academi
 and small-scale professional projects.
 
 **I am committed to:**
-- 🧠 Logical problem-solving
--   clean and readable code  
-- 🤝 Professional communication
+- Logical problem-solving
+- Clean and readable code  
+- Professional communication
 - Responsive Web Design with HTML, CSS & JavaScript
 - Front-End projects with clean, dark UI aesthetics
 - C / C++ Programming & OOP
