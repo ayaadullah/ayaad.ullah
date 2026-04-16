@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayaad Ullah Baig
+# Hi 👋, I'm Ayaad Ullah Bayg
 
 ### Aspiring AI Engineer | Software & Web Developer | Python & Machine Learning Enthusiast
 
